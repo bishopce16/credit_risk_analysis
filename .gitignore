@@ -5,6 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
+# adding files and folders to be ignored
+Module-17-Challenge-Resources
 
 # Distribution / packaging
 .Python
