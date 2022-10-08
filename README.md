@@ -6,7 +6,8 @@ An analysis to build and evaluate a dataset from LendingClub to discover credit 
 
 ## Overview of the analysis: 
 
-The purpose of this project is analyzing a dataset from LendingClub to evaluate several Machine Learning models to predict credit risk. Using Supervised Machine Learning because the data includes a labeled outcome. The dataset is unbalanced as the number of good loans offsets the number of risky loans. To balance out the classification problem to improve accuracy score and predictions several Machine Learning algorithms were employed to resample the data. The algorithms include: RandomOverSampler, SMOTE, ClusterCentroids, SMOTEENN, BalancedRandomForestClassifier, and EasyEnsembleClassifier. 
+The purpose of this project is analyzing a dataset from LendingClub to evaluate several Machine Learning models to predict credit risk. Using Supervised Machine Learning because the data includes a labeled outcome. The dataset is unbalanced as the number of good loans offsets the number of risky loans. To balance out the classification problem to improve accuracy score and predictions several Machine Learning algorithms were employed to resample the data, they include RandomOverSampler, SMOTE, ClusterCentroids, SMOTEENN, BalancedRandomForestClassifier, and EasyEnsembleClassifier. 
+
 
 ---
 ## Resources:
